@@ -23,7 +23,7 @@ abstract class HelloWorldHelper extends JHelperContent
 {
 	/**
 	 * Configure the Linkbar.
-	 *
+	 * Testcomment
 	 * @return Bool
 	 */
 
